@@ -5,23 +5,20 @@ A beautiful, responsive web application that displays GitHub repositories in an 
 ## ✨ Features
 
 - 🎨 **Modern Design**: Clean, responsive interface with smooth animations
-- 📱 **Mobile Friendly**: Fully responsive design that works on all devices
-- 🔍 **Smart Filtering**: Automatically filters out forked repositories
 - 📊 **Project Stats**: Shows stars, forks, last updated date, and repository size
 - 🏷️ **Language Tags**: Displays the primary programming language for each project
 - 📄 **Pagination**: Easy navigation through multiple pages of repositories
 - 🌐 **Live Demo Links**: Direct links to project demos and issue tracking
-- ⚡ **Fast Loading**: Optimized API calls with intelligent caching
 - 🎯 **URL Parameters**: Easy user switching via URL parameters
 
 ## 🎬 Live Demo
 
-[View Live Demo](https://your-username.github.io/github-portfolio-browser/)
+[View Live Demo](https://omar-driouch.github.io/repos-of/)
 
 ## 📸 Screenshots
 
 ![GitHub Portfolio Browser Screenshot](https://i.ibb.co/LhB9MP2c/Capture-d-cran-2025-06-28-214534.png)
-![GitHub Portfolio Browser Screenshot](https://i.ibb.co/LhB9MP2c/Capture-d-cran-2025-06-28-214547.png)
+![GitHub Portfolio Browser Screenshot](https://i.ibb.co/7JdmWtnK/Capture-d-cran-2025-06-28-215047.png)
 ## 🛠️ Installation & Setup
 
 ### Method 1: Quick Start (Recommended)
