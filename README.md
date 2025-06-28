@@ -190,9 +190,8 @@ Possible causes:
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/github-portfolio-browser/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/yourusername/github-portfolio-browser/discussions)
-- 📧 **LinkedIn**: [https://www.linkedin.com/in/omar-driouch/]
+
+- 📧 [**LinkedIn**: ](https://www.linkedin.com/in/omar-driouch/)
 
 ---
 
