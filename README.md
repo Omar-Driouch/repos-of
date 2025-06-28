@@ -20,8 +20,8 @@ A beautiful, responsive web application that displays GitHub repositories in an 
 
 ## 📸 Screenshots
 
-![GitHub Portfolio Browser Screenshot](screenshot.png)
-
+![GitHub Portfolio Browser Screenshot](https://i.ibb.co/LhB9MP2c/Capture-d-cran-2025-06-28-214534.png)
+![GitHub Portfolio Browser Screenshot](https://i.ibb.co/LhB9MP2c/Capture-d-cran-2025-06-28-214547.png)
 ## 🛠️ Installation & Setup
 
 ### Method 1: Quick Start (Recommended)
